@@ -1,0 +1,1 @@
+{"name":"Local: trappingRainWater","url":"f:\\Lectures(Code)\\Arrays\\trappingRainWater.java","tests":[{"id":1684154935740,"input":"height = [4,2,0,3,2,5]","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Lectures(Code)\\Arrays\\trappingRainWater.java","group":"local","local":true}
