@@ -1,0 +1,28 @@
+l22 after 3817 (N ja co)
+l4 sel s (co)
+
+TD
+
+
+
+
+
+start from file 26 lec 13 stack
+solve lc-35. Search Insert Position
+
+
+resolve l14 code on vscode
+
+
+read compile time polymorphism & run time polymorphism in detail
+
+
+
+f21  remaining  time-Complexity
+f22  done bt
+f23  done
+f24  done
+f25  remaining linked-list part-2
+f26  done(till 12) stack
+f27
+
