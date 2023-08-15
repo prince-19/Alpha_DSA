@@ -1,4 +1,4 @@
-public class BST{
+public class Delete_a_Node{
     static class Node {
         int data;
         Node left;
@@ -94,7 +94,7 @@ public class BST{
     }
 
     public static void main(String[] args) {
-        int values[] = {5, 1, 3, 4, 2, 7};
+        int values[] = {8, 5, 3, 1, 4, 6, 10, 11, 14};
         Node root = null;
 
         for(int i=0; i<values.length; i++){
@@ -112,7 +112,7 @@ public class BST{
         //     System.out.println("Not Found");
         // }
 
-       root = delete(root, 1);
+       root = delete(root, 5);
        System.out.println();
 
        inorder(root);
